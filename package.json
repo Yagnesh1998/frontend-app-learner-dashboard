@@ -4,7 +4,7 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edx/frontend-app-learner-dashboard.git"
+    "url": "https://github.com/Yagnesh1998/frontend-app-learner-dashboard.git"
   },
   "scripts": {
     "build": "fedx-scripts webpack",
